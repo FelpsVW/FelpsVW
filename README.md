@@ -11,4 +11,4 @@ Meu nome é Felipe Gonçalves Palhares
 -Quero tentar entrar na área de Mecanica de Aeronaves mas se isso não der certo vou continuar na área automotiva mesmo
 -Gosto de passar meu tempo vendo filmes ouvindo música ou jogando
 -Estou tentando aprender a mexer nos programas como o JavaScript e desenvolver projetos
-
+-
