@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem vindo ao meu Perfil! 😄
 
-<!--
-**FelpsVW/FelpsVW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe Gonçalves Palhares
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Eu tenho 17 anos
+-Sou gearhead (amo a cultura automobilistica)
+-Sou estudante de Mecanica de Automóveis Leves no Senai
+-Meu sonho é ter minha própria oficina e montar meus projetos
+-Se tudo der certo quero fazer alguma faculdade de engenharia (Engenharia Mecânica ou Aeronautica)
+-Quero tentar entrar na área de Mecanica de Aeronaves mas se isso não der certo vou continuar na área automotiva mesmo
+-Gosto de passar meu tempo vendo filmes ouvindo música ou jogando
+-Estou tentando aprender a mexer nos programas como o JavaScript e desenvolver projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
